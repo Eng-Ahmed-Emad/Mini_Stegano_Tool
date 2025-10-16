@@ -4,6 +4,23 @@
 This tool allows you to **hide**, **extract**, and **detect** secret data inside executable files (`.exe`) using **AES encryption** for confidentiality.
 
 ---
+## 👨‍💻 Authors & Contributions
+
+**SOC Team Lead:**  
+👤 **Ahmed Emad Eldeen Abdelmoneam**
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/0x3omda/">linkedin.com/in/0x3omda</a></li>
+        <li>🌐 <b>Portfolio:</b> <a href="https://eng-ahmed-emad.github.io/AhmedEmad-Dev/">Portfolio</a></li>
+      </ul>
+    </td>
+    <td><img align="right" height="153" width="159" src="gif/anime-frieren.gif" /></td>
+    <td><img align="right" height="153" width="159" src="gif/giphy.gif" /></td>
+  </tr>
+</table>
 
 ## ⚙️ Requirements
 
